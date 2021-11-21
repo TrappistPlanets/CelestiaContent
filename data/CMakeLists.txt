@@ -20,6 +20,7 @@ set(DATA_SOURCES
   visualbins.stc
   asteroids.ssc
   comets.ssc
+  ceres_locs.ssc
   dwarfplanets.ssc
   earth_locs.ssc
   eros_locs.ssc
@@ -37,6 +38,7 @@ set(DATA_SOURCES
   neptunemoons_locs.ssc
   openclusters.dsc
   outersys.ssc
+  plutocharon_locs.ssc
   ring_locs.ssc
   saturnmoons_locs.ssc
   uranusmoons_locs.ssc
