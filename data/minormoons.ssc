@@ -2738,7 +2738,7 @@
 {
 	Class	"minormoon"
 	Mesh	"telesto.cmod"
-	Texture	"telesto.*"
+	Texture	"icymoon.*"
 	Color	[ 0.988 0.992 1.0 ]
 	BlendTexture	true
 	Radius	16.3
